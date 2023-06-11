@@ -1,4 +1,4 @@
-# qlearning
+# Q learning
 
 This project involves firstly a neural network class which can be used to instantiate neural networks which are fully customisable in terms of layer sizes, activation functions and learnign rate.
 
